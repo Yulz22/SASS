@@ -1,0 +1,25 @@
+@import "variables";
+@import "header";
+// h1{
+//     color: yellowgreen;
+// }
+
+// footer{
+//     background: #444;
+//     h4{
+//         color:red;
+//         a{
+//             color:blue;
+//         }
+//     }
+// }
+
+section{
+    background: $colorDos;
+    height: $altoSeccion;
+}
+
+footer{
+    background: $colorTres;
+    height: $altoSeccion;
+}
